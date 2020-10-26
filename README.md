@@ -7,7 +7,7 @@
 * Anti Cheat with Anti Multi Client and process detection of the Cheat Engine.
 
 ## Coming
-* Next function to be created: Customizable alerts in real time
+* Next function to be created: Customizable alerts in real time.
 
 ## Status
 
