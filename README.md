@@ -1,4 +1,4 @@
-# LauncherLess
+# LauncherLess - Game Launcher with Anti Cheat
 > Launcher with anti cheat for online games.
 
 ## Features
