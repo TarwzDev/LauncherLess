@@ -2,7 +2,7 @@
 > Launcher with anti cheat for online games.
 
 ## Features
-* Connection to host server
+* Connection to host server;
 * Starting the game with TOKEN;
 * Anti Cheat with Anti Multi Client and process detection of the Cheat Engine.
 
