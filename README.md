@@ -1,2 +1,6 @@
 # LauncherLess
-> Launcher com anti cheat para jogos online
+> Launcher with anti cheat for online games
+
+# Features
+* Starting the game with TOKEN
+* Anti Cheat with Anti Multi Client and process detection of the Cheat Engine
