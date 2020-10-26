@@ -1,0 +1,11 @@
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\bin\Debug\BanSystem.dll
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\bin\Debug\BanSystem.pdb
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\bin\Debug\BanSystem.xml
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.vbprojAssemblyReference.cache
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.BanFrm.resources
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.Resources.resources
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.vbproj.GenerateResource.cache
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.dll
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.xml
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.pdb

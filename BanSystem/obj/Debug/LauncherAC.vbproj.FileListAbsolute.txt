@@ -1,0 +1,10 @@
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.BanFrm.resources
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\BanSystem.Resources.resources
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\LauncherAC.vbproj.GenerateResource.cache
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\LauncherAC.vbproj.CoreCompileInputs.cache
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\bin\Debug\LauncherAC.dll
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\bin\Debug\LauncherAC.pdb
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\bin\Debug\LauncherAC.xml
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\LauncherAC.dll
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\LauncherAC.xml
+C:\Users\Michael Linycker\source\repos\AMC2\BanSystem\obj\Debug\LauncherAC.pdb

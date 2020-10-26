@@ -1,0 +1,10 @@
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\bin\Debug\AMCDLL.dll
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\bin\Debug\AMCDLL.pdb
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\bin\Debug\AMCDLL.xml
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\obj\Debug\AMCDLL.Resources.resources
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\obj\Debug\AMCDLL.vbproj.GenerateResource.cache
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\obj\Debug\AMCDLL.vbproj.CoreCompileInputs.cache
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\obj\Debug\AMCDLL.dll
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\obj\Debug\AMCDLL.xml
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\obj\Debug\AMCDLL.pdb
+C:\Users\Michael Linycker\source\repos\AMC2\AMCDLL\obj\Debug\AMCDLL.AMC_Detector.resources
