@@ -7,7 +7,9 @@
 * Anti Cheat with Anti Multi Client and process detection of the Cheat Engine.
 
 ## Coming
-* Next function to be created: Customizable alerts in real time.
+> Next functions to be created
+* Customizable news in real time;
+* Authentication with HWID
 
 ## Status
 
