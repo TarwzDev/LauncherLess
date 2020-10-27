@@ -9,7 +9,7 @@
 ## Coming
 > Next functions to be created
 * Customizable news in real time;
-* Authentication with HWID
+* Authentication with HWID.
 
 ## Status
 
