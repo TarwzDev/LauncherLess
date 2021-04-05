@@ -1,5 +1,5 @@
 # LauncherLess - Game Launcher with Anti Cheat
-> Launcher with anti cheat for online games.
+> Launcher with anti cheat for online games. (Discontinued).
 
 ## Features
 * Connection to host server;
@@ -14,3 +14,7 @@
 ## Status
 
 * Discontinued.
+
+## New project in progress
+
+* [FrameLauncher](https://github.com/TarwzDev/FrameLauncher "FrameLauncher") 
