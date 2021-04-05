@@ -13,4 +13,4 @@
 
 ## Status
 
-* Under development.
+* Discontinued.
